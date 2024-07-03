@@ -1,0 +1,30 @@
+For looping1 = 0 To batasbaris
+            For loopj = 0 To bataskolom
+                If looping1 = 0 And loopj = 0 Then
+                    isi = "z || "
+                    isi = isi & nilaiXLama(looping1, loopj) & "x" & (loopj)
+                ElseIf looping1 <> 0 And loopj = 0 Then
+                    isi = isi & "s" & looping1 & "||" & nilaiXLama(looping1, loopj) & "x" & (loopj)
+                    'cek untuk menentukan letak solusi
+                ElseIf loopj <> 0 And loopj < kolomS Then
+                    isi = isi & "+ (" & nilaiXLama(looping1, loopj) & "x" & (loopj) & ")"
+
+                ElseIf loopj = bataskolom Then
+
+
+                    If looping1 = 0 Then
+                        isi = isi & vbCrLf
+                    Else
+                        isi = isi & "=" & nilaiXLama(looping1, loopj) & vbCrLf
+                    End If
+
+
+
+
+                Else
+                    'isi = isi & nilaix(looping1, loopj) & "x" & (loopj - JumlahX.Value)
+                    isi = isi & "+ (" & nilaiXLama(looping1, loopj) & "s" & (loopj - JumlahX.Value) & ")"
+                End If
+
+            Next
+        Next

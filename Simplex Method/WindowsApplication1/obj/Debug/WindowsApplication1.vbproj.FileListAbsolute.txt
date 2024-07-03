@@ -1,0 +1,76 @@
+C:\Users\heriyanto_2\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\heriyanto_2\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\heriyanto_2\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\heriyanto_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\heriyanto_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\heriyanto_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\heriyanto_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\heriyanto_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\heriyanto_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\heriyanto_2\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\program\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+H:\program\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\program\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\program\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+H:\program\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+H:\program\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\program\vb.net\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\program\vb.net\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\program\vb.net\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\program\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\project\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\project\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+H:\project\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\project\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\project\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+H:\project\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+H:\project\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\project\vb.net\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\project\vb.net\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\project\vb.net\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\tugas praktek\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\tugas praktek\vb.net\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\tugas praktek\vb.net\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\tugas praktek\vb.net\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\tugas praktek\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+H:\tugas praktek\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+H:\tugas praktek\vb.net\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\tugas praktek\vb.net\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\tugas praktek\vb.net\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\tugas praktek\vb.net\tro bakup\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\tugas praktek\vb.net\tro bakup\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\tugas praktek\vb.net\tro bakup\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\tugas praktek\vb.net\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+H:\tugas praktek\vb.net\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+H:\tugas praktek\vb.net\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\tugas praktek\vb.net\tro bakup v1.1\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\tugas praktek\vb.net\tro bakup v1.1\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\tro bakup v1.1\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\tugas praktek\vb.net\tro lanjut\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\tugas praktek\vb.net\tro lanjut\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\tro lanjut\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\tugas praktek\vb.net\tro lanjut\tro bakup\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\tugas praktek\vb.net\tro lanjut\tro bakup\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\tugas praktek\vb.net\tro lanjut\tro bakup\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\tro lanjut\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\tugas praktek\vb.net\tro lanjut\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+H:\tugas praktek\vb.net\tro lanjut\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+H:\tugas praktek\vb.net\tro lanjut\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\tugas praktek\vb.net\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\tugas praktek\vb.net\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\tugas praktek\vb.net\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\tugas praktek\vb.net\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\tugas praktek\vb.net\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\tugas praktek\vb.net\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+H:\tugas praktek\vb.net\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+H:\tugas praktek\vb.net\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\tugas praktek\vb.net\simpleks\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\tugas praktek\vb.net\simpleks\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+H:\tugas praktek\vb.net\simpleks\tro lanjut 2\tro bakup\tro\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
